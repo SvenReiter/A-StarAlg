@@ -1,5 +1,3 @@
-package A_StarAlg2403150936;
-
 public class A_StarElm {
     public final int id;
     public A_StarElm parent;
