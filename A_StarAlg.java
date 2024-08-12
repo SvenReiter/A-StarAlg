@@ -1,5 +1,3 @@
-package A_StarAlg2403150936;
-
 import java.util.Objects;
 
 public class A_StarAlg {
